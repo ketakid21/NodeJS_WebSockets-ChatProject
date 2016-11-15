@@ -1,9 +1,6 @@
 # NodeJS_WebSockets-ChatProject
 Chatbot application to reverse a String using WebSockets, Node JS, HTML5, Javascript, Jasmine Test.
 
-# NodeJS_WebSockets-ChatProject
-Chatbot application to reverse a String using WebSockets, Node JS, HTML5, Javascript, Jasmine Test.
-
 This chat application will reverse a string keyed in by a user.
 
 Technologies - Node JS, Websockets (without using express framework)
