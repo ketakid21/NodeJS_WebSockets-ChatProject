@@ -1,0 +1,10 @@
+{
+  "name":"NodeJSWebSocketChat",
+  "description":"NodeJS WebSocket Chat without using express framework",
+  "version":"0.0.1",
+  "author": "Ketaki Deshpande",
+  "private":true,
+  "dependencies":{
+    "websocket":"1.0.19"
+  }
+}
